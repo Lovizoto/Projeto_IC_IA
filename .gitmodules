@@ -1,0 +1,3 @@
+[submodule "gemini-classifiertext-lib"]
+	path = gemini-classifiertext-lib
+	url = https://github.com/Lovizoto/gemini_classifiertext_lib.git
