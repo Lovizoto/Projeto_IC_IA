@@ -1,3 +1,7 @@
 [submodule "gemini-classifiertext-lib"]
 	path = gemini-classifiertext-lib
 	url = https://github.com/Lovizoto/gemini_classifiertext_lib.git
+[submodule "classifier-flyway-db"]
+	path = classifier-flyway-db
+	url = https://github.com/Lovizoto/classifier-flyway-db.git
+	branch = main
